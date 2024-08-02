@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/weiluo/leptjson/build",
+  "command": "/usr/bin/cc    -ansi -pedantic -Wall -g -o CMakeFiles/leptjson.dir/leptjson.c.o -c /home/weiluo/leptjson/leptjson.c",
+  "file": "/home/weiluo/leptjson/leptjson.c",
+  "output": "CMakeFiles/leptjson.dir/leptjson.c.o"
+},
+{
+  "directory": "/home/weiluo/leptjson/build",
+  "command": "/usr/bin/cc    -ansi -pedantic -Wall -g -o CMakeFiles/leptjson_test.dir/test.c.o -c /home/weiluo/leptjson/test.c",
+  "file": "/home/weiluo/leptjson/test.c",
+  "output": "CMakeFiles/leptjson_test.dir/test.c.o"
+}
+]
